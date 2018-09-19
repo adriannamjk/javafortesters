@@ -11,8 +11,6 @@ public class Person {
     public Person(String name) {
 
     }
-
-/*    public void setName(String name){
-        this.name = name;
-    }*/
 }
+
+//static - nie trzeba tworzyć wielu kopii obiektu, aby skorzystać z jego danych lub metod

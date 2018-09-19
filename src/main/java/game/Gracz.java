@@ -1,6 +1,7 @@
 package game;
 
 public class Gracz {
+
     int liczba = 0;
 
     public void zgaduj() {
