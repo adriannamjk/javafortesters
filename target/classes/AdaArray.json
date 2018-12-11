@@ -1,0 +1,62 @@
+[
+  {
+    "relationType": "PRIME",
+    "sourceNode": {
+      "id": "Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G@BIS",
+      "type": "MEASURE",
+      "base": false,
+      "prime": false,
+      "publish": false
+    },
+    "targetNode": {
+      "id": "P1_Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G@BIS",
+      "type": "MEASURE",
+      "base": false,
+      "prime": false,
+      "publish": false
+    },
+    "parameters": {
+      "targetMeasureCode": "P1_Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G",
+      "sourceMeasureCode": "Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G",
+      "fixedAnomalies": "MF",
+      "timestamp": "20181205084125089"
+    },
+    "fixedAnomalies": [
+      {
+        "code": "MF",
+        "name": "MixedFrequency",
+        "description": "Mixed Frequencies"
+      }
+    ]
+  },
+  {
+    "relationType": "PRIME",
+    "sourceNode": {
+      "id": "Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G@BIS",
+      "type": "MEASURE",
+      "base": false,
+      "prime": false,
+      "publish": false
+    },
+    "targetNode": {
+      "id": "P_Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G@BIS",
+      "type": "MEASURE",
+      "base": false,
+      "prime": false,
+      "publish": false
+    },
+    "parameters": {
+      "targetMeasureCode": "P1_Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G",
+      "sourceMeasureCode": "Q.F.C.G.TO1.A.5J.A.TW.N.ET.N.G@BIS",
+      "fixedAnomalies": "MF",
+      "timestamp": "20181205084125089"
+    },
+    "fixedAnomalies": [
+      {
+        "code": "MF",
+        "name": "MixedFrequency",
+        "description": "Mixed Frequencies"
+      }
+    ]
+  }
+]
